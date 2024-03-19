@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "199_WhileLoop", "199_WhileL
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "199_ DoWhile", "199_ DoWhile\199_ DoWhile.vcxproj", "{2682A77A-994B-4B94-9EF7-AD2971EC4D6F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "199_menghitung persegi panjang", "199_menghitung persegi panjang\199_menghitung persegi panjang.vcxproj", "{254BC40B-3EAE-4B1C-AB2A-950685E40B4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{2682A77A-994B-4B94-9EF7-AD2971EC4D6F}.Release|x64.Build.0 = Release|x64
 		{2682A77A-994B-4B94-9EF7-AD2971EC4D6F}.Release|x86.ActiveCfg = Release|Win32
 		{2682A77A-994B-4B94-9EF7-AD2971EC4D6F}.Release|x86.Build.0 = Release|Win32
+		{254BC40B-3EAE-4B1C-AB2A-950685E40B4A}.Debug|x64.ActiveCfg = Debug|x64
+		{254BC40B-3EAE-4B1C-AB2A-950685E40B4A}.Debug|x64.Build.0 = Debug|x64
+		{254BC40B-3EAE-4B1C-AB2A-950685E40B4A}.Debug|x86.ActiveCfg = Debug|Win32
+		{254BC40B-3EAE-4B1C-AB2A-950685E40B4A}.Debug|x86.Build.0 = Debug|Win32
+		{254BC40B-3EAE-4B1C-AB2A-950685E40B4A}.Release|x64.ActiveCfg = Release|x64
+		{254BC40B-3EAE-4B1C-AB2A-950685E40B4A}.Release|x64.Build.0 = Release|x64
+		{254BC40B-3EAE-4B1C-AB2A-950685E40B4A}.Release|x86.ActiveCfg = Release|Win32
+		{254BC40B-3EAE-4B1C-AB2A-950685E40B4A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
