@@ -9,5 +9,17 @@ int main() {
 		cout << i << "selamat pagi dunia " << endl;
 	}
 
-	
+
+
+	cout << "nilai i terakhir : " << i << endl;
+	for (i = 0; i < 5; i++) {
+		cout << "masukkan nilai index ke- " << i << ":";
+		cin >> arr[i];
+
+	}
+	for (i = 0; i < 5; i++) {
+		cout << "data array ke-" << i << ":" << arr[i] << endl;
+	}
+	return 0;
+
 }
