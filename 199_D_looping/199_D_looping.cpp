@@ -10,7 +10,6 @@ int main() {
 	}
 
 
-
 	cout << "nilai i terakhir : " << i << endl;
 	for (i = 0; i < 5; i++) {
 		cout << "masukkan nilai index ke- " << i << ":";
